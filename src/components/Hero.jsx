@@ -21,12 +21,12 @@ const HeroPage = () => {
                         {/* projects completed */}
                         <div className="w-full flex justify-between gap-5 items-center lg:text-nowrap">
                             <div className="space-y-2">
-                                <h3 className="text-2xl md:text-5xl font-bold">04+</h3>
+                                <h3 className="text-2xl md:text-5xl font-bold">15+</h3>
                                 <p className="text-sm font-semibold italic text-gray">Projects Completed</p>
                             </div>
 
                             <div className="space-y-2">
-                                <h3 className="text-2xl md:text-5xl font-bold">14+</h3>
+                                <h3 className="text-2xl md:text-5xl font-bold">30+</h3>
                                 <p className="text-sm font-semibold italic text-gray">Learning Days</p>
                             </div>
                         </div>
