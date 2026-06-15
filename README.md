@@ -21,12 +21,17 @@ This repository documents my **day-by-day journey of learning React**, following
 src/
 
 ├── pages/
+
 │   ├── Day1/
+
 │   ├── Day2/
-│   ├── Day3/
+
 │   └── ...
+
 ├── components/
+
 ├── App.jsx
+
 └── main.jsx
 
 ---
