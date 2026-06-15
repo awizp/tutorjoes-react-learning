@@ -1,4 +1,4 @@
-# 🚀 React Learning Journey – TutorJoes
+## React Learning Journey – TutorJoes
 
 This repository documents my **day-by-day journey of learning React**, following the TutorJoes React course. Each day's concepts are practiced through small projects, all organized inside the `src/pages` folder.
 
@@ -6,40 +6,32 @@ This repository documents my **day-by-day journey of learning React**, following
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **React** – Frontend library for building UI
 - **Vite** – Fast build tool & dev server
 - **JavaScript (ES6+)**
-- **CSS3**
+- **Tailwindcss**
 - **HTML5**
-- **ESLint** – Code quality and linting
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 src/
 
 ├── pages/
-
 │   ├── Day1/
-
 │   ├── Day2/
-
 │   ├── Day3/
-
 │   └── ...
-
 ├── components/
-
 ├── App.jsx
-
 └── main.jsx
 
 ---
 
-## ⚙️ Getting Started
+### ⚙️ Getting Started
 
 Clone the repo and run it locally:
 
@@ -52,9 +44,9 @@ npm run dev
 
 ---
 
-## 🎯 Purpose
+### 🎯 Purpose
 
 This repo is a personal practice log to:
-- Strengthen core React concepts through daily hands-on coding
-- Build a collection of mini-projects for future reference
+- Strengthen core React concepts through daily hands on coding
+- Build a collection of mini projects for future reference
 - Track progress over time in a structured way
