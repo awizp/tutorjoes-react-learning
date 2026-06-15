@@ -1,16 +1,60 @@
-# React + Vite
+# 🚀 React Learning Journey – TutorJoes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository documents my **day-by-day journey of learning React**, following the TutorJoes React course. Each day's concepts are practiced through small projects, all organized inside the `src/pages` folder.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [tj-react-projects.netlify.app](https://tj-react-projects.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** – Frontend library for building UI
+- **Vite** – Fast build tool & dev server
+- **JavaScript (ES6+)**
+- **CSS3**
+- **HTML5**
+- **ESLint** – Code quality and linting
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+src/
+
+├── pages/
+
+│   ├── Day1/
+
+│   ├── Day2/
+
+│   ├── Day3/
+
+│   └── ...
+
+├── components/
+
+├── App.jsx
+
+└── main.jsx
+
+---
+
+## ⚙️ Getting Started
+
+Clone the repo and run it locally:
+
+```bash
+git clone https://github.com/awizp/tutorjoes-react-learning.git
+cd tutorjoes-react-learning
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Purpose
+
+This repo is a personal practice log to:
+- Strengthen core React concepts through daily hands-on coding
+- Build a collection of mini-projects for future reference
+- Track progress over time in a structured way
